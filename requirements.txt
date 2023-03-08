@@ -1,11 +1,11 @@
-timm
-omegaconf
-numpy
-opencv_python
-loguru
-scikit-image
-tqdm
-Pillow
-thop
-tabulate
-easydict
+timm==0.6.12
+omegaconf==2.3.0
+numpy==1.23.5
+opencv-python==4.7.0.72
+loguru==0.6.0
+scikit-image==0.20.0
+tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
+Pillow==9.4.0
+thop==0.1.1.post2209072238
+tabulate==0.8.10
+easydict==1.10
